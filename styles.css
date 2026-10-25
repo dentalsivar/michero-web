@@ -273,6 +273,8 @@ p { margin: 0; }
   #planes .carnet .arriba img { width: 34px; height: auto; }
   #planes .carnet .reco { align-self: flex-start; margin-top: 10px; font-family: var(--f-titulo); font-weight: 800; font-size: 11px; letter-spacing: .08em; padding: 4px 10px; border-radius: 999px; background: var(--turquesa); color: var(--marino); }
   #planes .carnet-dorso { display: flex; flex-direction: column; flex: 1; margin-top: 18px; }
+#planes .carnet-dorso a { margin-top: auto; }
+#planes .carnet-dorso ul { margin-bottom: 18px; }
   #planes .carnet-dorso li { padding: 9px 0; font-size: 15px; align-items: center; }
   #planes .carnet-dorso li.no { color: #A3AEBE; }
   #planes .carnet-dorso li b { font-weight: 800; white-space: nowrap; }
